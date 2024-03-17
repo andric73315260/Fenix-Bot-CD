@@ -1,7 +1,4 @@
 
-------------------
-> **Noticia**:  , ,  ,  ,  ,  .
-------------------
 a) <Img Src="https://img.shields.io/badge/-click el nuevo repositorio del bot-000000?style=for-the-badge&logo=GitHub&logoColor=negro" />a)
 
 
