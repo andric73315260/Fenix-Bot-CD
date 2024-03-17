@@ -19,9 +19,9 @@ p.
 </p.>
  
 
-<a) href="https://chat.whatsapp.com/EAxOACyzjB6JhkRvQvw4zl" objetivo="en blanco"><Img Src="https://img.shields.io/badge/Grupo-OfiCIAL DEL BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=blanco" /></a)>
+<a) href="https://chat.whatsapp.com/Itxoa5a1BKB71dokbte6zB" objetivo="en blanco"><Img Src="https://img.shields.io/badge/Grupo-OfiCIAL DEL BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=blanco" /></a)>
 
-<a) href="https://chat.whatsapp.com/GK9jQ7sY7XRGxhu6UoTOle" objetivo= "en blanco"><Img Src="https://img.shields.io/badge/grupo de soporté--25D366?style=for-the-badge&logo=whatsapp&logoColor=blanco" /></a)>
+<a) href="https://chat.whatsapp.com/Itxoa5a1BKB71dokbte6zB" objetivo= "en blanco"><Img Src="https://img.shields.io/badge/grupo de soporté--25D366?style=for-the-badge&logo=whatsapp&logoColor=blanco" /></a)>
 
 >               LOS NUMEROS NO SON BOTS Y EN EL GRUPO NO SE PERMITEN NUMEROS QUE SEAN BOTS             
 
